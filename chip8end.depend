@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1707046774 source:c:\users\nkoub\onedrive\documents\polytech di\semestre 5\programmation imperative\chiphuitcodeblocktwo\chip8end\main.c
+	"repertoiresh/machine.h"
+	<SDL2/SDL.h>
+	"display/display.h"
+	"display/sprite.h"
+	"keyboard/keyboard.h"
+	"speaker/speaker.h"
+
+1707047391 source:c:\users\nkoub\onedrive\documents\polytech di\semestre 5\programmation imperative\chiphuitcodeblocktwo\chip8end\machine.c
+	"repertoiresh/machine.h"
+
+1707039613 c:\users\nkoub\onedrive\documents\polytech di\semestre 5\programmation imperative\chiphuitcodeblocktwo\chip8end\machine.h
+	"processeur.h"
+	"display/display.h"
+	"display/sprite.h"
+	"keyboard/keyboard.h"
+	"speaker/speaker.h"
+	<SDL2/SDL.h>
+
+1706979942 c:\users\nkoub\onedrive\documents\polytech di\semestre 5\programmation imperative\chiphuitcodeblocktwo\chip8end\processeur.h
+	"memoire.h"
+	"machine.h"
+
+1707045070 c:\users\nkoub\onedrive\documents\polytech di\semestre 5\programmation imperative\chiphuitcodeblocktwo\chip8end\memoire.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	"erreurs/erreur.h"
+
+1706977978 c:\users\nkoub\onedrive\documents\polytech di\semestre 5\programmation imperative\chiphuitcodeblocktwo\chip8end\erreur.h
+
+1707045264 source:c:\users\nkoub\onedrive\documents\polytech di\semestre 5\programmation imperative\chiphuitcodeblocktwo\chip8end\memoire.c
+	"repertoiresh/memoire.h"
+	<stdlib.h>
+
+1707142275 source:c:\users\nkoub\onedrive\documents\polytech di\semestre 5\programmation imperative\chiphuitcodeblocktwo\chip8end\processeur.c
+	"repertoiresh/processeur.h"
+	"repertoiresh/machine.h"
+
+1706977978 c:\users\nkoub\onedrive\documents\polytech di\semestre 5\programmation imperative\chiphuitcodeblocktwo\chip8end\erreurs\erreur.h
+
+1707046757 c:\users\nkoub\onedrive\documents\polytech di\semestre 5\programmation imperative\chiphuitcodeblocktwo\chip8end\repertoiresh\machine.h
+	"processeur.h"
+	"display/display.h"
+	"display/sprite.h"
+	"keyboard/keyboard.h"
+	"speaker/speaker.h"
+	<SDL2/SDL.h>
+
+1706979942 c:\users\nkoub\onedrive\documents\polytech di\semestre 5\programmation imperative\chiphuitcodeblocktwo\chip8end\repertoiresh\processeur.h
+	"memoire.h"
+	"machine.h"
+
+1707045575 c:\users\nkoub\onedrive\documents\polytech di\semestre 5\programmation imperative\chiphuitcodeblocktwo\chip8end\repertoiresh\memoire.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	"erreur.h"
+
+1706977978 c:\users\nkoub\onedrive\documents\polytech di\semestre 5\programmation imperative\chiphuitcodeblocktwo\chip8end\repertoiresh\erreur.h
+
