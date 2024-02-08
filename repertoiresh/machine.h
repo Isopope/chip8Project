@@ -16,6 +16,13 @@ struct Machine {
 
 struct Machine *initialiser_machine();
 
+void liberer_machine(struct Machine *cp8);
+
+void machine_loop(struct Machine *cp8);
+
+void charger_font(struct Machine *cp8);
+
+
 
 
 
