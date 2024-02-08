@@ -1,7 +1,7 @@
 # CHIP 8
 
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gamecodeur.fr%2Fnouvelle-master-class-programmation-dun-emulateur-de-chip8-en-c-avec-la-sdl2%2F&psig=AOvVaw3814tQ_U2aw1G32mDEuMVp&ust=1707488965394000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiQxKD6m4QDFQAAAAAdAAAAABAE" width="100px"/>
+<img src="https://i0.wp.com/www.gamecodeur.fr/wp-content/uploads/2022/03/programmation-dun-emulateur-YouTube-Thumbnail.png?resize=350%2C200&ssl=1" width="100px"/>
 </div>
 **Il s'agit d'un emulateur Chip 8 codé en langage C **
 <p>
